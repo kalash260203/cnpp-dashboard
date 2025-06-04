@@ -1,6 +1,10 @@
 # CNAPP Dashboard
 
 A modern, responsive dashboard built with React for Cloud Native Application Protection Platform (CNAPP). This dashboard provides visualization and management of cloud security metrics across CSPM, CWPP, Image Security, and Ticket Management.
+![image](https://github.com/user-attachments/assets/f0b48598-c870-4b94-81c3-4b78d1342f6e)
+![image](https://github.com/user-attachments/assets/ac3a1420-5eb1-4b8d-8206-6a132ab6c8a9)
+
+
 
 ## Features
 
